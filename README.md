@@ -1,1 +1,1 @@
-# DS-Titanic-dataset
+Titanic-Survival-Prediction
